@@ -1,3 +1,3 @@
 # HTML Portfolio
 
-## Includes Profile of User
+Includes Profile of User

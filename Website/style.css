@@ -1,0 +1,160 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fdfdfd;
+    color: #222;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+header {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+    background: #9b59b6; 
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    background: #d7bde2; /* Light purple panel */
+    padding: 12px 0;
+    border-bottom: 2px solid #9b59b6;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #333;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+nav a:hover,
+nav a.active {
+    color: #9b59b6;
+    border-bottom: 2px solid #9b59b6;
+    padding-bottom: 2px;
+}
+
+section {
+    margin: 40px 0;
+}
+
+h1 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 22px;
+    margin: 15px 0 5px;
+    color: #444;
+}
+
+ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+ul li {
+    margin: 6px 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+table th,
+table td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: left;
+}
+
+table th {
+    background: #9b59b6;
+    color: white;
+}
+
+.contact-info p {
+    margin: 5px 0 15px;
+}
+
+.icon {
+    width: 60px;
+    vertical-align: middle;
+    transition: transform 0.3s;
+}
+
+.icon:hover {
+    transform: scale(1.1);
+}
+
+.map {
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+button {
+    background-color: #9b59b6;
+    color: white;
+    border: none;
+    padding: 12px 32px;
+    font-size: 18px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #8e44ad;
+}
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin: 20px 0;
+}
+
+.social-links img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.contact-form input, 
+.contact-form textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    width: 100%;
+}
+
+.contact-form button {
+    align-self: flex-start;
+}

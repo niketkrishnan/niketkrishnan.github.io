@@ -2,25 +2,33 @@
 <html>
 <head>
     <title>Projects</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>My Projects</h1>
+<div class="container">
+    <header>My Portfolio</header>
     <nav>
-        <a href="index.html">Home</a> |
-        <a href="aboutme.html">About Me</a> |
-        <a href="qualification.html">Qualifications</a> |
-        <a href="hobbies.html">Hobbies</a> |
+        <a href="index.html">Home</a>
+        <a href="aboutme.html">About</a>
+        <a href="qualification.html">Skills</a>
+        <a href="projects.html" class="active">Projects</a>
+        <a href="hobbies.html">Hobbies</a>
         <a href="contact.html">Contact</a>
     </nav>
-    <ul>
-        <li>
-            <strong>Project 1:</strong> Numerical Distance Relay with Graphical User Interface
-            <p>Description: A project that implements a numerical distance relay with a GUI for better user interaction.</p>
-        </li>
-        <li>
-            <strong>Project 2:</strong> SCADA
-            <p>Description: Project on SCADA with R-SFLCs.</p>
-        </li>
-    </ul>
+
+    <section>
+        <h1>My Projects</h1>
+
+        <div class="project">
+            <h2>Numerical Distance Relay with Graphical User Interface</h2>
+            <p>A project that implements a numerical distance relay with a GUI for better user interaction.</p>
+        </div>
+
+        <div class="project">
+            <h2>SCADA</h2>
+            <p>Project on SCADA with R-SFLCs.</p>
+        </div>
+    </section>
+</div>
 </body>
 </html>

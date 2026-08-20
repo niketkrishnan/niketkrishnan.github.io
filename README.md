@@ -54,3 +54,7 @@ Website/
 - [Identity Compromise Detector](https://github.com/niketkrishnan/identity-compromise-detector)
 - [Render-Aware Prompt-Injection Defence](https://github.com/niketkrishnan/Render-Aware-Prompt-Injection-Defence)
 - [CROSSGAURD cross-layer privilege analysis](https://github.com/niketkrishnan/CROSSGAURD)
+
+## Evidence-first project notes
+
+The cards on the site describe local fixture evidence and point to the committed artifacts in each repository. They are deliberately not presented as production benchmark results. For the source, tests, threat model, and limitations, follow the repository links in the selected-work section.

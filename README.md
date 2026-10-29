@@ -53,7 +53,7 @@ Website/
 - [SBOM Supply-Chain Intelligence](https://github.com/niketkrishnan/sbom-supply-chain-intelligence)
 - [Identity Compromise Detector](https://github.com/niketkrishnan/identity-compromise-detector)
 - [Render-Aware Prompt-Injection Defence](https://github.com/niketkrishnan/Render-Aware-Prompt-Injection-Defence)
-- [CROSSGAURD cross-layer privilege analysis](https://github.com/niketkrishnan/CROSSGAURD)
+- [CROSSGAURD cross-layer privilege analysis](https://github.com/niketkrishnan/CROSSGUARD)
 
 ## Evidence-first project notes
 

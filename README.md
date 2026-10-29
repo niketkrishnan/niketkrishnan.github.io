@@ -6,7 +6,7 @@ The site is intentionally built with plain HTML, CSS, and JavaScript so the cont
 
 ## What the site communicates
 
-The homepage is designed as a recruiter’s five-minute path through Niket’s work. It introduces the security focus, presents the five defensive portfolio repositories, highlights three research builds, groups the technical toolkit by capability, and closes with accurate education and contact details.
+The homepage is designed as a recruiter’s five-minute path through Niket’s work. It introduces the security focus, presents the five defensive portfolio repositories,highlights the published ICIMIA paper and two in-progress builds, groups the technical toolkit by capability, and closes with accurate education and contact details.
 
 The content is based on the current resume and avoids unsupported production-performance claims. Project descriptions emphasize what each system does, how it is evaluated, and the security boundary around it.
 
@@ -53,7 +53,7 @@ Website/
 - [SBOM Supply-Chain Intelligence](https://github.com/niketkrishnan/sbom-supply-chain-intelligence)
 - [Identity Compromise Detector](https://github.com/niketkrishnan/identity-compromise-detector)
 - [Render-Aware Prompt-Injection Defence](https://github.com/niketkrishnan/Render-Aware-Prompt-Injection-Defence)
-- [CROSSGAURD cross-layer privilege analysis](https://github.com/niketkrishnan/CROSSGUARD)
+- [CROSSGUARD cross-layer privilege analysis](https://github.com/niketkrishnan/CROSSGUARD)
 
 ## Evidence-first project notes
 
